@@ -3,7 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> Ecommerce Application built on top of Laravel and Vue frameworks.
+> Ecommerce Application built on top of Laravel and Vue frameworks. It support online stores 
+> conversion of physical shops.
 
 
 ## Author
@@ -14,7 +15,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kedtechgroup/ecommerce/issues).
+For contribution please read our contributing policy: https://github.com/kedtechgroup/ecommerce/blob/master/CONTRIBUTING.md
 
 
 ## Security issues
@@ -23,6 +24,3 @@ If you think that you have found a security issue in Ecommerce, please do not us
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
